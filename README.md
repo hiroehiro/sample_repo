@@ -1,2 +1,2 @@
 # sample_repo
-Git復習
+更新
